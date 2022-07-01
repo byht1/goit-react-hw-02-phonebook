@@ -12,10 +12,11 @@ export const Span = styled.span`
 `;
 
 export const Input = styled.input`
-  padding: 5px 10px;
-  display: block;
   width: 70%;
   margin: 10px auto 0 auto;
+  padding: 5px 10px;
+  display: block;
+  border-radius: 10px;
 
   font-size: 1em;
 `;
